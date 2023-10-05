@@ -1,0 +1,59 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h5{
+    color: white
+}
+
+header{
+    text-align: center;
+    background-color: gray;
+    padding: 3em;
+}
+
+.miFoto{
+    width: 30%;
+}
+
+p{
+    width: 80%;
+}
+
+#textoDescripcion{
+    display: flex;
+    justify-content: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    width: 90%;
+}
+
+caption{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: black;
+    color: white;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    height: 10vh;
+    display: flex;
+    
+    
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    margin: auto;
+
+    
+}
